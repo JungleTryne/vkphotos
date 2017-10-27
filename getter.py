@@ -11,9 +11,9 @@ import os
 import requests
 from bottle import post, run, request, route
 
-@route("/")
+@route("/name?id="+i)
 def hi():
-    return "Hi"
+    return i
 
 @post("/")
 def pos():
