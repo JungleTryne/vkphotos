@@ -21,9 +21,12 @@ htmlEnd = '''
 def hi():
     getter = request.query
     q = getter["id"]
-    print("ID пользователя:" + q)
+    try:
+        q = int(q)
+    except:
+        pass
+    print("ID пользователя:" + str(q))
     if isinstance(q, int):
-        int(q)
         print("Это id!")
         Prog.idk = q
         htmlMid = str(Prog.StartCheck(q, ""))
