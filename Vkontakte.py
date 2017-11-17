@@ -7,8 +7,22 @@ from getMis import Prog
 htmlStart = '''
 <html>
     <head>
+        <style type="text/css">
+            body {
+              background-color: #FFCC00;
+            }
+            .center-img {
+                display: block;
+                margin: 100 auto;
+                vertical-align: middle;
+                width: 85%;
+                text-align:center;
+            }
+        
+        </style>
     </head>
     <body>
+    
 '''
 
 htmlEnd = '''
@@ -16,6 +30,12 @@ htmlEnd = '''
     </body>
 </html>
 '''
+
+divStart = '''
+<div class = "center-img">
+'''
+divEnd = '''
+</div>'''
 
 @route("/gett")
 def hi():
@@ -35,8 +55,8 @@ def hi():
         print("Это текст!")
         htmlMid = str(Prog.StartCheck(0, q))
 
-    return (htmlStart +
-            htmlMid +
+    return (htmlStart + divStart +
+            htmlMid + divEnd +
             htmlEnd)
 
 @post("/")
@@ -44,4 +64,4 @@ def pos():
     #print(request.json)
     return "0"
 
-run(host="0.0.0.0", port=os.environ.get('PORT', 5000))
+run(host="127.0.0.1", port=os.environ.get('PORT', 5000))

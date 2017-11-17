@@ -5,7 +5,7 @@ from firebase import firebase
 
 
 htmlMidStart = '''
-    <img src="
+    <img width = "140" height = "140"  src="
 '''
 
 htmlMidStop = '''
