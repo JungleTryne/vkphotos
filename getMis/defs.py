@@ -40,6 +40,7 @@ def gett(access_token="951704270acfe3ff0c327c8e5976d570acdab3987609f75582284509c
                     "&filter=" + filter +
                     "&v=" + version +
                     "&owner_id=" + str(ownerid))
+        print(url_post)
     else:
         print("Да я понял, что это текст")
         url_post = (url +
@@ -50,6 +51,7 @@ def gett(access_token="951704270acfe3ff0c327c8e5976d570acdab3987609f75582284509c
                     "&filter=" + filter +
                     "&v=" + version +
                     "&domain=" + str(nam))
+        print(url_post)
     print("Получили, возращаем")
     return requests.get(url_post)
 
