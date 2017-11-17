@@ -9,7 +9,7 @@ htmlStart = '''
     <head>
         <style type="text/css">
             body {
-              background-color: #CC6633;
+              background-color: #FF6600;
             }
             .center-img {
                 display: block;
