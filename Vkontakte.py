@@ -22,12 +22,12 @@ def hi():
     getter = request.query
     q = getter["id"]
     print("ID пользователя:" + q)
-    try:
+    if isinstance(q, int):
         int(q)
         print("Это id!")
         Prog.idk = q
         htmlMid = str(Prog.StartCheck(q, ""))
-    except:
+    else:
         Prog.nam = q
         print("Это текст!")
         htmlMid = str(Prog.StartCheck(0, q))
@@ -41,4 +41,4 @@ def pos():
     #print(request.json)
     return "0"
 
-run(host="0.0.0.0", port=os.environ.get('PORT', 5000))
+run(host="127.0.0.1", port=os.environ.get('PORT', 5000))

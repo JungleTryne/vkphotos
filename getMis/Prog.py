@@ -19,7 +19,7 @@ nam = ""
 def StartCheck (idk, nam):
     print("Мы в ВК")
     print("Мы смотрим данные: " + str(idk) + str(nam))
-    if (len(idk) == 0) and (len(nam) == 0):
+    if (idk == 0) and (len(nam) == 0):
         exit()
 
     isName = False # Id or Name
