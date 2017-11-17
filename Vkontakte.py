@@ -9,7 +9,7 @@ htmlStart = '''
     <head>
         <style type="text/css">
             body {
-              background-image: url(https://images.freecreatives.com/wp-content/uploads/2016/03/Wooden-Texture-Background.jpg);
+              background-image: url(https://goo.gl/ZGpKiy);
             }
             .center-img {
                 display: block;
