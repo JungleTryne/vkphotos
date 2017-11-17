@@ -9,7 +9,7 @@ htmlStart = '''
     <head>
         <style type="text/css">
             body {
-              background-image: res/wood.jpg;
+              background-image: url(http://yesofcorsa.com/wp-content/uploads/2016/12/Wood-Desktop-Wallpaper-HD.jpg);
             }
             .center-img {
                 display: block;
