@@ -1,1 +1,1 @@
-web: python getter.py
+web: python Vkontakte.py

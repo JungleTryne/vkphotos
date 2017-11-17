@@ -1,17 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f27ee120-36d3-451b-b148-91e8d572840a" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vk-photos.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/getMis/Prog.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/getMis/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/getMis/defs.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Vkontakte.py" afterPath="$PROJECT_DIR$/Vkontakte.py" />
-    </list>
+    <list default="true" id="f27ee120-36d3-451b-b148-91e8d572840a" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -24,7 +14,7 @@
       <file leaf-file-name="Prog.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/getMis/Prog.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
+            <state relative-caret-position="1394">
               <caret line="82" column="4" lean-forward="false" selection-start-line="82" selection-start-column="4" selection-end-line="82" selection-end-column="4" />
               <folding>
                 <element signature="e#0#23#0" expanded="true" />
@@ -297,7 +287,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/getMis/Prog.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
+        <state relative-caret-position="1394">
           <caret line="82" column="4" lean-forward="false" selection-start-line="82" selection-start-column="4" selection-end-line="82" selection-end-column="4" />
           <folding>
             <element signature="e#0#23#0" expanded="true" />
