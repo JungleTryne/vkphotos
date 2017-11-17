@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f27ee120-36d3-451b-b148-91e8d572840a" name="Default" comment="" />
+    <list default="true" id="f27ee120-36d3-451b-b148-91e8d572840a" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Vkontakte.py" afterPath="$PROJECT_DIR$/Vkontakte.py" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -11,14 +13,22 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Prog.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Prog.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/getMis/Prog.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1394">
-              <caret line="82" column="4" lean-forward="false" selection-start-line="82" selection-start-column="4" selection-end-line="82" selection-end-column="4" />
-              <folding>
-                <element signature="e#0#23#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="34">
+              <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="requirements.txt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/requirements.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -26,7 +36,7 @@
       <file leaf-file-name="defs.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/getMis/defs.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="63">
+            <state relative-caret-position="126">
               <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
               <folding>
                 <element signature="e#0#15#0" expanded="true" />
@@ -38,8 +48,8 @@
       <file leaf-file-name="Vkontakte.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Vkontakte.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="40" column="7" lean-forward="true" selection-start-line="40" selection-start-column="7" selection-end-line="40" selection-end-column="24" />
+            <state relative-caret-position="731">
+              <caret line="43" column="17" lean-forward="false" selection-start-line="43" selection-start-column="17" selection-end-line="43" selection-end-column="17" />
               <folding>
                 <element signature="e#29#38#0" expanded="true" />
               </folding>
@@ -83,9 +93,9 @@
         <option value="$PROJECT_DIR$/../../VK/server.py" />
         <option value="$PROJECT_DIR$/getMis/Progr.py" />
         <option value="$PROJECT_DIR$/Prog.py" />
-        <option value="$PROJECT_DIR$/Vkontakte.py" />
         <option value="$PROJECT_DIR$/getMis/defs.py" />
         <option value="$PROJECT_DIR$/getMis/Prog.py" />
+        <option value="$PROJECT_DIR$/Vkontakte.py" />
       </list>
     </option>
   </component>
@@ -267,8 +277,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Vkontakte.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="40" column="7" lean-forward="true" selection-start-line="40" selection-start-column="7" selection-end-line="40" selection-end-column="24" />
+        <state relative-caret-position="731">
+          <caret line="43" column="17" lean-forward="false" selection-start-line="43" selection-start-column="17" selection-end-line="43" selection-end-column="17" />
           <folding>
             <element signature="e#29#38#0" expanded="true" />
           </folding>
@@ -277,7 +287,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/getMis/defs.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="63">
+        <state relative-caret-position="126">
           <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
           <folding>
             <element signature="e#0#15#0" expanded="true" />
@@ -287,11 +297,17 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/getMis/Prog.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1394">
-          <caret line="82" column="4" lean-forward="false" selection-start-line="82" selection-start-column="4" selection-end-line="82" selection-end-column="4" />
-          <folding>
-            <element signature="e#0#23#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="34">
+          <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/requirements.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
