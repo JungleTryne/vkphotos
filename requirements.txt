@@ -24,7 +24,7 @@ networkx==2.0
 numpy==1.13.1
 olefile==0.44
 pew==0.1.26
-Pillow==4.2.1
+Pillow==8.1.1
 pipenv==8.2.0
 plotly==2.0.15
 postgres==2.2.1
